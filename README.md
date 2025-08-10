@@ -78,6 +78,8 @@ return distance[], previous[]
 - **Data Structures:** Priority Queue, Adjacency List/Matrix
 
 ---
+<img width="1255" height="707" alt="{A1690FDC-50C2-43AB-B7FF-2BA884E28D99}" src="https://github.com/user-attachments/assets/53f809ad-a2b8-49a8-9c9d-2720638e9173" />
+
 
 ## 🚀 Future Enhancements
 - Add **real-time train data** integration.
